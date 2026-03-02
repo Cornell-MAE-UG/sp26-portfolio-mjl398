@@ -8,63 +8,53 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
-
----
-
-#### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+**Email:** [mjl398@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +914 659 0057
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.7/4.0 | Graduation: May, 2029
 
-- **[High School Name]**  
+- **Mamaroneck High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: June 2025
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
+- **Software:** Autodesk Fusion 360, KiCAD, Wireshark  
+- **Programming:** Rust, C++, Java, Python, C, HTML, CSS  
 - **Tools:** 3D Printing, Laser Cutting  
 
 ---
 
-#### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
----
-
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **Central Elementary School - STEM Teaching Assistant**  
+  May, 2025 - June, 2025  
+  - Worked with 23 classes of approximately 20 students in grades K-5 on various STEM projects
+  - Taught lessons focusing on introduction to CAD, electronics, and buoyancy
+  - Operated various 3D printers and aided in organizing lessons for the day
+
+- **Larchmont Yacht Club Sailing Program - Sailing Instructor**  
+  June - August: 2024, 2025, and 2026  
+  - Coached students ages 8 to 16 years old in sailing technique and racing strategy
+  - Taught students on a variety of boats ranging in length from 7 feet up to 34 feet
+  - Coached the Keelboat team in 2024, guiding students through a variety of weather and water conditions
+  - Coached the FEVA Race Group and Second Year Optis, focusing on introducing basics and enhancing sailing capabilities   
+
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- Design Award, MATE ROV Pennsylvania Regional Competition, 2024 and 2025  
 
 ---
 
-#### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+#### Extracurricular Activities and Interests
+- Member of Cornell Shake Ultimate Frisbee Team  
+- Enjoys skiing and sailing
 
 ---
 
