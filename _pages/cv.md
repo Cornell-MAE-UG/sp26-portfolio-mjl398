@@ -53,8 +53,10 @@ permalink: /cv/
 ---
 
 #### Extracurricular Activities and Interests
-- Member of Cornell Shake Ultimate Frisbee Team  
+- Member of Cornell Shake Ultimate Frisbee Team
+- Member of the Cornell Ski and Snowboard club
 - Enjoys skiing and sailing
+
 
 ---
 
