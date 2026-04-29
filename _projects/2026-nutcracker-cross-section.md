@@ -1,0 +1,15 @@
+---
+layout: project
+title: Nutcracker Handle Cross-Section and Material Analysis
+description: Design a cross section that can be used with a material that is determined in order to limit the overall deflection of the lever.
+technologies: None
+image: /assets/images/nutcracker/overall.png
+hide-image: true
+image-position: 80% center
+image-fit: cover
+---
+
+
+For the final task within this project I was tasked to find a suitable cross-section and material that would limit the deflection of the lever to at most 2% of its length, which in my case was 0.232[cm]. Before starting to calcualte the location of the max deflection and the beam to use, I made certain assumptions to simplfy calculations. One assumption that I made was that all loads were transverse which allowed me to assume that this beam was in pure bending. Another set of assumptions that I made was that the beam was straight and that the horizontal distances between the pivot and nut, and the nut to the end of the handle were maintained. This allowed me to calculate the location of maximum deflection because it drastically simplifies deflection location calculations, due to my handle initially being curved. To start my process I initially created a VM diagram so that I could determine the maximum internal moment within the lever as well as determine the equations for M(x). Once I obtained the equations for M(x) I plugged into EIy''=M(x) and integrated twice to obtain equations for y(x) along the bar. I then plugged in my boundary conditions for the pivot and the nut to be able to create equations for y(x) that represented by system. Following this I then differentiated each equation and set it to zero and solved for x, which would be critical points of x. Upon solving for these roots I only found one to be within the region in which its respective y(x) equation was valid. So this gave me two possible points for the location of the maximum deflection, 1.835[cm] from the pivot of the free end of the bar, 11.6[cm] from the pivot, and after plugging these locations into the y(x) equations I determined the maximum delfection to be at the end of the bar. Once I obtained the maximum deflection I then wanted to determine a suitable material for my lever. So I determined that the product of the yield strength of whatever material I chose and the section modulus of the chosen cross-section must be greater than the maximum internal moment of 5715.2[N·cm]. Using this information I determined that a Polycarbonate beam with a cross-section aligning with a W150x13.5 I-Beam would be the most cost-effective route. I then checked that the polycarbonate had a young's modulus that kept the maximum deflection within the range, which it did. Below is a overall drawing of nutcracker with a zoomed in portion showing the dimensions of the cross-section used.
+
+![Overall Diagram]({{ "/assets/images/nutcracker/overall.png" | relative_url }}){:style="width: 500px; display:block; margin:auto;""}
