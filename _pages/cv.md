@@ -38,7 +38,7 @@ permalink: /cv/
 
 ---
 
-#### Skills
+#### Technical Skills
 - **Design & Manufacturing:** Fusion360 (Design & CNC Toolpath Generation), Orca Slicer (Additive Manufacturing/3D Printing), KiCAD  
 - **Programming:** Rust, C++, Java, Python, C, HTML, CSS  
 - **Tools & Software:** VSCode, Wireshark  
